@@ -1,6 +1,8 @@
 ## Olá! 😃 Eu sou Maria E. Rennó, prazer! 👋
 
-Com carreira em evolução na área de dados, curiosa e organizada, estou sempre querendo aprender e saber mais sobre as principais tecnologias e as novidades no mercado. 💻
+Profissional com carreira em evolução na área de ciência e análise de dados. Com um perfil organizado e muito interesse por tecnologia, decidi realizar a transição de carreira e trabalhar em decifrar os padrões ocultos nos dados.
+
+Minha trajetória até aqui em áreas voltadas a Comunicação e Planejamento em Produções Midiáticas me proporcionou uma base sólida em organização, trabalho em equipe e capacidade analítica, os quais considero importantes e que poderei aplicar na nova área. Agora estou canalizando meu entusiasmo para mergulhar de cabeça na análise e ciência de dados.
 
 <div style="disolay: inline_block"><br/>
 <img align="center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-20B2AA?style=for-the-badge&logo=linkedin&logoColor=white" />
