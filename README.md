@@ -22,7 +22,7 @@ Com carreira em evolução na área de dados, curiosa e organizada, estou sempre
 
 
 ##
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://github.com/rr-mochiccino/portifolio_projects)
+[![](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://github.com/rr-mochiccino/portifolio_projects)
 
 <!--
 **rr-mochiccino/rr-mochiccino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
