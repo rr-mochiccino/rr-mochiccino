@@ -25,6 +25,6 @@ Minha trajetória até aqui em áreas voltadas a Comunicação e Planejamento em
 
 ##
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rr-mochiccino&repo=portifolio_projects)](https://github.com/rr-mochiccino/portifolio_projects)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rr-mochiccino&repo=portifolio_projects)](https://github.com/rr-mochiccino/st_dashboard_vendas)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rr-mochiccino&repo=st_dashboard_vendas)](https://github.com/rr-mochiccino/st_dashboard_vendas)
 
 
